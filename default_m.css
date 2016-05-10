@@ -1,0 +1,148 @@
+@import url(http://fonts.googleapis.com/css?family=Istok+Web:400,700);
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #FFF;
+opacity:1;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #9FFF;
+opacity:1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #FFF;
+opacity:1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    #FFF;
+    opacity:1;
+}
+body, html {
+  margin: 0;
+  -webkit-transition: opacity 400ms;
+  -moz-transition: opacity 400ms;
+  transition: opacity 400ms;
+}
+
+body, .onepage-wrapper, html {
+  display: block;
+  position: static;
+  padding: 0;
+  width: 640px;
+  height: 100%;
+}
+
+
+textarea, input, body {font-family: 'Istok Web', sans-serif;}
+            body {margin:0; padding:0px; height: 100%; color:white;}
+            div.wrapper {width:100%; height:100%;}
+
+
+#t7 {
+  float: right;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-top: 0px;
+padding:20px 0px;
+  text-align: right;
+  width: 90%;
+}
+#t8 {
+  
+  font-size: 30px;
+  margin-left: 10px;
+  margin-top: 0px;
+  text-align: right;
+  width: 90%;
+padding:20px 0px;
+}
+
+#t9 {
+  
+  font-size: 30px;
+  margin-top: 0px;
+  text-align: right;
+  width: 100%;
+    height:100%;
+    position:relative;
+padding:20px 0px;
+}
+
+
+
+ 
+#t1 { position:absolute; margin-left:10px;  z-index:30; width:620px; height:650px; top:180px; text-align:center;  }
+#t2 {position:absolute; margin-left:15px;  z-index:30;  width:610px;  font-size: 30px; top:335px; }
+#t3 {position:absolute; margin-left:15px;  z-index:30;   width:610px; text-align:right; top:400px;}
+#t4 {position:absolute; z-index:30; margin-left:15px;  width:610px;   top:420px;}
+#t5 {position:absolute; z-index:30;  margin-left:15px; width:610px;  text-align:right;top:380px; }
+#t6 {position:absolute; z-index:30; margin-left:15px;  width:610px;  text-align:center; top:90px; }
+
+section { width:640px; background-size:cover; clear:both; position:relative; height:1141px; width:640px; background-position:center center;}
+#s_one {background-image:url(https://d2xcq4qphg1ge9.cloudfront.net/assets/17276/2106810/original_original_modernsummer_one.jpg); }
+#s_two { background-image:url(https://d2xcq4qphg1ge9.cloudfront.net/assets/17276/2106813/original_original_modernsummer_two.jpg);}
+#s_three { background-image:url(https://d2xcq4qphg1ge9.cloudfront.net/assets/17276/2106812/original_original_modernsummer_three.jpg); }
+#s_four {  background-position:center center; background-image:url(https://d2xcq4qphg1ge9.cloudfront.net/assets/17276/2109106/original_original_original_modernsummer_four.jpg); }
+#s_five {  background-image:url(https://d2xcq4qphg1ge9.cloudfront.net/assets/17276/2106808/original_original_modernsummer_five.jpg); }
+#s_six { background-image:url(https://d2xcq4qphg1ge9.cloudfront.net/assets/17276/2106811/original_original_modernsummer_siz.jpg)}
+
+#n1 { background-image:url('img/gallery_back.jpg')}
+
+
+
+div.scroll_single {position:absolute; bottom:10px; width:100%; text-align:center;}
+.thisistheone {left:10px !important}
+
+.scrolldownonee {bottom:160px;}
+
+
+#emailaddress1, #emailaddress {padding:0; font-size:30px; color:white; background-color: rgba(0,0,0,0.1); border-radius:10px; border:2px solid white; width:600px; text-align:center; height:90px; margin-bottom:20px;}
+#location_form1, #location_form {padding:0; font-size:30px; color:white; background-color: rgba(0,0,0,0.1); border-radius:10px; border:2px solid white; width:600px; text-align:center; height:90px; margin-bottom:20px;}
+#questionwrapper1, #questionwrapper {padding:5px; font-size:30px; color:white; background-color: rgba(0,0,0,0.1); border-radius:10px; border:2px solid white; width:590px; margin-bottom:8px; height:170px; resize:none; margin-bottom:20px;}
+#submit_button1, #submit_button { -webkit-appearance: none; cursor:pointer; width:600px; font-size:25px; color:white; background-color: rgba(0,0,0,0.3); border-radius:10px; border:2px solid white; height:50px;}
+
+
+
+.t1_1 {font-size: 6.6vw; line-height:1em; margin-bottom:5px; font-weight:800}
+.t1_2 {font-size: 6.3vw; line-height:1em; margin-bottom:45px;}
+.t2_1 {opacity:1; font-size: 60px; line-height: 1em; margin-bottom:40px;}
+.t2_2 {opacity:1; font-size: 25px; line-height: 1em; margin-bottom:40px;}
+.t2_3 {opacity:1; line-height: 1em; font-size: 25px; margin-bottom:40px;}
+.t2_4 {opacity:1; line-height: 1em; font-size: 25px; margin-bottom:40px;}
+.t2_5 {opacity:1; line-height: 1em; font-size: 25px;}
+
+.t3_1 {opacity:1; font-size: 60px; line-height: 1em; margin-bottom:40px;}
+.t3_2 {opacity:1; font-size: 25px; line-height: 1em; margin-bottom:40px;}
+.t3_3 {opacity:1; font-size: 25px; line-height: 1em; }
+
+.t4_1 {opacity:1; font-size: 60px; line-height: 1em; margin-bottom:40px;}
+.t4_2 {opacity:1; font-size: 25px; line-height: 1em; margin-bottom:40px;}
+.t4_3 {opacity:1; font-size: 25px; line-height: 1em; }
+
+.t5_1 {opacity:1; font-size: 60px; line-height: 1em; margin-bottom:40px;}
+.t5_2 {opacity:1; font-size: 25px; line-height: 1em; margin-bottom:40px;}
+.t5_3 {opacity:1; line-height: 1em; font-size: 25px; margin-bottom:40px;}
+.t5_4 {opacity:1; line-height: 1em; font-size: 25px;}
+
+.t6_1 {font-size: 55px; line-height:1em; margin-bottom:20px;}
+.t6_2 {font-size:30px; line-height:1em; margin-bottom:20px;}
+
+.t7_1 { font-size: 60px; line-height: 1em; margin-bottom:8px;}
+.t7_2 {font-size: 25px; line-height: 1em; margin-bottom:8px;}
+.t7_3 {font-size: 25px; line-height: 1em; margin-top:18px; margin-bottom:20px;}
+span.t7_3 {padding:4px 6px; border:4px solid white; }
+
+.t9_1 { font-size: 60px; line-height: 1em; margin-bottom:20px; margin-right:10px;}
+.t9_2 {position:absolute; bottom:50px; right:30px; font-size: 25px; line-height: 1em;}
+
+
+
+
+
+
+.overlay_one, .overlay_two, .overlay_three, .overlay_four, .overlay_five {z-index:10; background-color:black; position:absolute; width:100%; height:100%; opacity:0.4; top:0px; left:0px;}
+.overlay_six {z-index:10; background-color:black; position:absolute; width:100%; height:100%; opacity:0.6; top:0px; left:0px;}
+
+
+.scrolldownone {width:63%; }
+section {display:none}
+div#landscape_override {width:100%; height:100%; position:absolute; top:0px; left:0px; z-index:99999; background-image:url('img/m_p.png'); background-position:center center; background-size:cover}
